@@ -1,0 +1,11 @@
+colors: {
+  --white: #c9c9c9;
+  --grey: #7f7f7f;
+  --deep-dark: #1a1a1a;
+  --deep-dark-low: #1a1a1a8f;
+  --dark: #222222;
+  --soft-red: #aa5555;
+  --soft-green: #55aa55;
+  --soft-blue: #555eaa;
+  --soft-yellow: #a9aa55;
+}
